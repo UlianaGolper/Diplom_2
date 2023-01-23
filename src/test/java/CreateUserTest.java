@@ -10,7 +10,7 @@ import static EndointsAndConstants.Endpoints.*;
 import static EndointsAndConstants.RandomUserData.*;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.equalTo;
-import static org.hamcrest.CoreMatchers.is;
+
 
 public class CreateUserTest {
 
